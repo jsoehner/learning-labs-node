@@ -8,8 +8,14 @@ body {
     background-color: #f4f4f4;
 }
 
+#header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
 #app {
-    background: #fff;
+    background: #F5F6FE;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -30,7 +36,7 @@ body {
 
 #todo-form button {
     padding: 10px 20px;
-    background: #007bff;
+    background: #3443F4;
     color: #fff;
     border: none;
     border-radius: 4px;
